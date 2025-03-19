@@ -97,7 +97,7 @@ npm start
 ## Contributors 👥
 - [Tejasvi Kumar](https://github.com/sceptejas) 👨‍💻
 - [Rajarshi Datta](https://github.com/rajarshidattapy) 👩‍💻
-- [Harshit Srivastava](https://github.com/hrshit1) 👨‍💻
+- [Harshit Srivastava](https://github.com/hr-shiit) 👨‍💻
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
