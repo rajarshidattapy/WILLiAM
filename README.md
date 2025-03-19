@@ -1,7 +1,7 @@
 # WillIam - Digital Inheritance System for Crypto & Personal Assets 🔐💼
 
 ## Overview 🌟
-WillIam is a decentralized application built on Core Blockchain that allows users to securely manage the inheritance of their digital assets. Users can designate beneficiaries, specify distribution percentages, and ensure their digital wealth is transferred according to their wishes in the event of their death.
+WillIam is a decentralized L2 wallet application built on Core Blockchain that allows users to securely manage the inheritance of their digital assets. Users can designate beneficiaries, specify distribution percentages, and ensure their digital wealth is transferred according to their wishes in the event of their death.
 
 ## Problem Statement ⚠️
 Every year, millions of dollars worth of cryptocurrency assets are lost forever due to unexpected deaths where the owner's private keys become inaccessible. WillIam solves this problem through a secure, automated verification and inheritance system.
@@ -19,7 +19,7 @@ Every year, millions of dollars worth of cryptocurrency assets are lost forever 
 - **Blockchain**: Core Blockchain 🔗
 - **Smart Contracts**: Solidity 📝
 - **Backend**: Node.js 🟢
-- **Web3 Integration**: Web3.js/Ethers.js 🌐
+- **Web3 Integration**: Ethers.js 🌐
 - **NFT Storage**: IPFS via Pinata 📂
 
 ## Death Verification Process 🔍
@@ -86,13 +86,6 @@ npm start
 - All smart contracts have been audited for security vulnerabilities
 - Reentrancy protection implemented in all fund-handling functions
 - Multi-stage verification process prevents fraudulent claims
-
-## Roadmap 🗺️
-- [ ] Mobile application development 📱
-- [ ] Support for additional blockchain networks 🌐
-- [ ] Enhanced death verification processes 🔐
-- [ ] Multi-signature support for beneficiaries 🖋️
-- [ ] Legal document integration ⚖️
 
 ## Contributors 👥
 - [Tejasvi Kumar](https://github.com/sceptejas) 👨‍💻
