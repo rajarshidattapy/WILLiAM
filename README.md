@@ -39,7 +39,7 @@ WillIam employs a robust verification system to confirm a user's death before di
 ### Installation 💻
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/william.git
+git clone https://github.com/rajarshidattapy/william.git
 
 # Navigate to project directory
 cd william
