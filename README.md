@@ -7,20 +7,21 @@ WillIam is a decentralized L2 wallet application built on Core Blockchain that a
 Every year, millions of dollars worth of cryptocurrency assets are lost forever due to unexpected deaths where the owner's private keys become inaccessible. WillIam solves this problem through a secure, automated verification and inheritance system.
 
 ## Features ✨
-- **Secure Login** 🔒: Connect your MetaMask wallet to access your personal WillIam account
+- **Secure Login** 🔒: Connect your MetaMask wallet
 - **Asset Management** 💰: Deposit CORE tokens to your secure inheritance contract
 - **Beneficiary System** 👪: Add multiple nominees with specific distribution percentages
 - **Multi-stage Verification** ✅: Three-layer verification process to confirm death before asset distribution
 - **Digital Asset Preservation** 🖼️: Convert important documents and images to NFTs for secure inheritance
-- **Visual Analytics** 📊: Track your assets and beneficiary distribution through intuitive charts
+- **Visual Analytics** 📊: Track your beneficiary distribution through intuitive charts
 
 ## Tech Stack 🛠️
-- **Frontend**: React.js ⚛️
-- **Blockchain**: Core Blockchain 🔗
-- **Smart Contracts**: Solidity 📝
-- **Backend**: Node.js 🟢
-- **Web3 Integration**: Ethers.js 🌐
-- **NFT Storage**: IPFS via Pinata 📂
+- **Frontend**:  Next.js 
+- **Blockchain**: Core 
+- **AI agent**: Goat SDK  
+- **Smart Contracts**: Solidity 
+- **Backend**: Node.js 
+- **Web3 Integration**: Ethers.js 
+- **NFT Storage**: Pinata 
 
 ## Death Verification Process 🔍
 WillIam employs a robust verification system to confirm a user's death before distributing assets:
@@ -29,12 +30,10 @@ WillIam employs a robust verification system to confirm a user's death before di
 2. **Nominee Confirmation** ✋: More than 50% of designated nominees must confirm the user's death
 3. **Certificate Verification** 📄: Death certificate submission and verification
 
-## Getting Started 🚀
-
 ### Prerequisites 📋
 - Node.js v14+ 🟢
 - MetaMask browser extension 🦊
-- CORE tokens for transactions 💲
+- CORE test tokens for transactions 💲
 
 ### Installation 💻
 ```bash
@@ -55,8 +54,8 @@ npm start
 1. Configure MetaMask to connect to Core Blockchain
 2. Add Core Blockchain network to MetaMask:
    - Network Name: Core Blockchain
-   - RPC URL: [Core Blockchain RPC URL]
-   - Chain ID: [Core Chain ID]
+   - RPC URL: [Core Blockchain RPC URL](https://rpc.test2.btcs.network)
+   - Chain ID: [Core Chain ID](1114)
    - Currency Symbol: CORE
 
 ## User Guide 📖
@@ -88,9 +87,9 @@ npm start
 - Multi-stage verification process prevents fraudulent claims
 
 ## Contributors 👥
-- [Tejasvi Kumar](https://github.com/sceptejas) 👨‍💻
-- [Rajarshi Datta](https://github.com/rajarshidattapy) 👩‍💻
-- [Harshit Srivastava](https://github.com/hr-shiit) 👨‍💻
+- [Tejasvi Kumar](https://github.com/sceptejas) 👨‍💻: Smart Contracts & web3 integration
+- [Rajarshi Datta](https://github.com/rajarshidattapy) 👩‍💻: Frontend & AI agent
+- [Harshit Srivastava](https://github.com/hr-shiit) 👨‍💻: Smart Contracts & backend
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
